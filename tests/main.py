@@ -2,7 +2,7 @@ import configparser
 import os
 from babel.core import Locale
 
-path_config_file = './config_file.ini'
+path_config_file = '/var/opt/kaspersky/config.ini'
 config = configparser.ConfigParser()
 
 
